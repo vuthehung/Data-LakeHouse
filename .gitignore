@@ -1,4 +1,3 @@
 lib/*.jar
-notebooks/.ipynb_checkpoints
 datasets/olympics/
 .env
